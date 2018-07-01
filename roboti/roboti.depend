@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1506183303 source:d:\tudor info\roboti\main.cpp
+	<iostream>
+	<fstream>
+	<algorithm>
+

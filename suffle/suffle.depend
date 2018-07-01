@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1509470267 source:d:\tudor info\suffle\main.cpp
+	<iostream>
+	<fstream>
+	<algorithm>
+

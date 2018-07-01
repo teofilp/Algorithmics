@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1496505390 source:d:\tudor info\fkdfs4\main.cpp
+	<iostream>
+	<fstream>
+

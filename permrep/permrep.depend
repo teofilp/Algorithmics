@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1509136944 source:d:\tudor info\permrep\main.cpp
+	<iostream>
+	<strings.h>
+

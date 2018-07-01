@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1507494834 source:d:\tudor info\prosir\main.cpp
+	<iostream>
+	<fstream>
+	<string.h>
+

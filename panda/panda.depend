@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1521146311 source:e:\tudorinfo\panda\main.cpp
+	<iostream>
+	<fstream>
+	<queue>
+

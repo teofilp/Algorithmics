@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1509180735 source:d:\tudor info\permutari2\main.cpp
+	<iostream>
+	<fstream>
+	<algorithm>
+

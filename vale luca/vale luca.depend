@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1508356553 source:d:\tudor info\vale luca\main.cpp
+	<iostream>
+	<fstream>
+	<climits>
+

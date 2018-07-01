@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1488386740 source:d:\tudor info\magazin\main.cpp
+	<iostream>
+	<fstream>
+

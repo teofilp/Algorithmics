@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1493494028 source:d:\tudor info\ex clase\main.cpp
+	<iostream>
+	"persoane.h"
+
+1493493557 d:\tudor info\ex clase\persoane.h
+	<string.h>
+	<iostream>
+
+1493493998 source:d:\tudor info\ex clase\persoane.cpp
+	"persoane.h"
+	<iostream>
+	<strings.h>
+

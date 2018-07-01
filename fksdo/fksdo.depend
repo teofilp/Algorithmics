@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1487274172 source:d:\tudor info\fksdo\main.cpp
+	<iostream>
+	<fstream>
+	<stdlib.h>
+

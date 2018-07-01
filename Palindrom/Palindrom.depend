@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1507489005 source:d:\tudor info\palindrom\main.cpp
+	<fstream>
+	<iostream>
+	<strings.h>
+

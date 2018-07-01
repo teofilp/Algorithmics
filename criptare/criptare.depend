@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1495723385 source:d:\tudor info\criptare\main.cpp
+	<iostream>
+	<vector>
+	<string>
+	<algorithm>
+

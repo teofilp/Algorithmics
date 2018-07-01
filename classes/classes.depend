@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1493494642 source:d:\tudor info\classes\main.cpp
+	<iostream>
+	"our_first_class.h"
+
+1493495458 d:\tudor info\classes\our_first_class.h
+

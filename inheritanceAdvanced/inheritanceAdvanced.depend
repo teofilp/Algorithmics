@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1498500638 source:d:\tudor info\inheritanceadvanced\main.cpp
+	<iostream>
+	<sstream>
+	<vector>
+

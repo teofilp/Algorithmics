@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1497374199 source:d:\tudor info\points\point.cpp
+	<iostream>
+	"point.h"
+
+1497375010 d:\tudor info\points\point.h
+
+1497375152 source:d:\tudor info\points\main.cpp
+	<iostream>
+	"point.h"
+

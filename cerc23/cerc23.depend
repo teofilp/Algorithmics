@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1509983867 source:d:\tudor info\cerc23\main.cpp
+	<iostream>
+	<algorithm>
+	<vector>
+	<fstream>
+	<stdlib.h>
+

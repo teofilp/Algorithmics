@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1506797321 source:d:\tudor info\paranteze3\main.cpp
+	<iostream>
+	<fstream>
+	<stack>
+

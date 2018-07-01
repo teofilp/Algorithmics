@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1508616070 source:d:\tudor info\egale\main.cpp
+	<iostream>
+	<cmath>
+	<fstream>
+

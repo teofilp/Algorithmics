@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1509182934 source:d:\tudor info\sirpie\main.cpp
+	<iostream>
+	<fstream>
+	<algorithm>
+

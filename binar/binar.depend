@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1494514320 source:d:\tudor info\binar\main.cpp
+	<iostream>
+	<stdlib.h>
+	<algorithm>
+

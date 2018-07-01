@@ -1,0 +1,17 @@
+	int binar(int v[],int left,int right, int x){
+	
+	int m=(left+right)/2;
+
+	if(left>right)
+	return -1;
+
+	if(x==v[m])
+		return m;
+	if(x<v[m])
+	return binar(v,left,m-1,x);
+	return binar(v,m+1,right,x);
+
+
+
+
+}

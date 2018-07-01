@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1494956048 source:d:\tudor info\djask\main.cpp
+	<iostream>
+	<stdlib.h>
+	<algorithm>
+	<ctime>
+

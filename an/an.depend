@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1495473650 source:d:\tudor info\an\main.cpp
+	<iostream>
+	<fstream>
+	<math.h>
+

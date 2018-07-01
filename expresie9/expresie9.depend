@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1506190932 source:d:\tudor info\expresie9\main.cpp
+	<iostream>
+	<fstream>
+	<map>
+

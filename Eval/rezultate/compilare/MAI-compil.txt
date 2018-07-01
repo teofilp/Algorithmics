@@ -1,0 +1,12 @@
+				 BORDEROU DE COMPILARE
+
+ID         Nume            Prenume              Scoala                        
+MAI        
+
+Sursa:     main.cpp
+Problema:  caps
+
+Mesaj compilator:
+
+
+

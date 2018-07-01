@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1487352302 source:d:\tudor info\control\main.cpp
+	<iostream>
+	<fstream>
+

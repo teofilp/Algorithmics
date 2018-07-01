@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1493722299 source:d:\tudor info\numere prime\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+

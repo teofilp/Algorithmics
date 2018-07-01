@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1493538201 source:d:\tudor info\position\main.cpp
+	<iostream>
+	"position.h"
+
+1493539068 d:\tudor info\position\position.h
+
+1493538617 source:d:\tudor info\position\position.cpp
+	"position.h"
+	<iostream>
+

@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1497458013 source:d:\tudor info\operator overloading\main.cpp
+	<iostream>
+	"punct.h"
+
+1497457342 source:d:\tudor info\operator overloading\punct.cpp
+	"punct.h"
+	<iostream>
+
+1497457982 d:\tudor info\operator overloading\punct.h
+

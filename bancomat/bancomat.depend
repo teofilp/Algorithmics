@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1495267255 source:d:\tudor info\bancomat\main.cpp
+	<iostream>
+	<fstream>
+

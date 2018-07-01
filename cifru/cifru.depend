@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1487787482 source:d:\tudor info\cifru\main.cpp
+	<iostream>
+	<fstream>
+	<cmath>
+
